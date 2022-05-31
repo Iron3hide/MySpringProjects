@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-security-demo-09-jdbc-bcrypt/spring-security-demo-08-jdbc-plaintext&apos; to &apos;spring-security-demo-09-jdbc-bcrypt&apos;" description="Rename resource &apos;spring-security-demo-08-jdbc-plaintext&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="spring-security-demo-08-jdbc-plaintext" name="spring-security-demo-09-jdbc-bcrypt" stamp="1653051960296" updateReferences="true"/>
+</session>
